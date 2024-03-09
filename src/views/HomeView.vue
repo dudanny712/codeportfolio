@@ -15,3 +15,5 @@ import NavigationSection from "@/components/Navigation/NavigationSection.vue";
 })
 export default class HomeView extends Vue {}
 </script>
+
+<style lang="scss"></style>

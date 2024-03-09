@@ -4,8 +4,8 @@
 </template>
 
 <style lang="scss">
-* {
-  box-sizing: border-box;
-  -webkit-font-smoothing: antialiased;
+@import "./styles/colors.scss";
+#app {
+  background-color: $primary;
 }
 </style>
